@@ -23,4 +23,5 @@ I tried to crack it using the famous rockyou.txt but it failed!!
 I checked the description again, he said it's a 4-character password so I created my own wordlist.
 
 The command used to create wordlists:
+
 crunch 1 6 abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -o wordlist.txt
