@@ -1,4 +1,4 @@
-# [MEDIUM] Counter write-up
+# CyberTalents-[MEDIUM] Counter write-up
 Discription: 
 
 Hacker tried to hide information inside this binary file.
