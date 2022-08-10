@@ -12,3 +12,7 @@ Starting from the main function.. I noticed there were multiple random values be
 
 
 I searched this https://filesignatures.net/index.php?page=all for 50 4B 03 04 and I found it, we got a zip file!
+
+I dumped the values then used this site https://tomeko.net/online_tools/hex_to_file.php to convert them.
+
+![Screenshot_2022-08-10_07-31-05](https://user-images.githubusercontent.com/80649768/183890769-4536d4d2-f167-42ae-b193-f192be7923ef.png)
