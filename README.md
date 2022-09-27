@@ -1,4 +1,7 @@
 # CyberTalents-[MEDIUM] Counter write-up
+
+Category : Digital Forensics 
+
 Discription: 
 
 Hacker tried to hide information inside this binary file.
